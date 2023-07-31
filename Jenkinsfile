@@ -9,6 +9,7 @@ stages {
         stage('execute the file') { 
             steps {
                  sh 'bash test.sh'
-            }
+                  }
+        }
         }
 }
