@@ -1,1 +1,1 @@
-echo "hello., welcome to jumisa jenkins.."
+echo "multi branch pipeline"
